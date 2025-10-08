@@ -1,0 +1,163 @@
+ <script runat="server" language="ampscript">
+ SET @DealId = AttributeValue('sfmc_service_appt_key')
+ SET @rows = LookupRows("ent.AUL_IdealCustomerJourney_AFS_Staging", "sfmc_service_appt_key", @DealId)
+ SET @rowCount = rowcount(@rows)
+ 
+ IF @rowCount > 0 then
+   SET @row = row(@rows, 1)
+ 
+ SET @FirstName = field(@row, "first_name")
+      
+//Appointment Details
+      
+SET @Appointment_Date = field(@row, "appointmentdate")
+SET @appointmentDate = FormatDate(@Appointment_Date, "MM/dd/yyyy")
+SET @Appointment_Time = field(@row, "appointmenttime")
+   
+/* Extract hours and minutes from the text */
+set @hour = Substring(@Appointment_Time, 1, 2)
+set @minute = Substring(@Appointment_Time, 4, 2)
+
+/* Convert the 24-hour time to 12-hour format */
+if @hour > 12 then
+  set @hour = Format(Subtract(@hour, 12), "00")
+  set @AMPM = "PM"
+elseif @hour == 12 then
+  set @AMPM = "PM"
+elseif @hour == 00 then
+  set @hour = 12
+  set @AMPM = "AM"
+else
+  set @AMPM = "AM"
+endif
+
+/* Combine hour, minute, and AM/PM */
+set @appointmentTime = Concat(@hour, ":", @minute, " ", @AMPM)
+ 
+ //Dealership details
+ SET @DealershipName = field(@row, "dealership_name")
+ SET @DealershipAddress = field(@row, "store_street_address")
+ SET @City = field(@row, "store_city")
+  SET @State = field(@row, "store_state")
+  SET @Zip = field(@row, "store_zip")
+   SET @DealershipURL1 = field(@row, "dealer_website")
+
+ //Vehicle details
+ SET @Sought_Year = field(@row, "ModelYear")
+   SET @Sought_Make = field(@row, "Make")
+   SET @Sought_Model = field(@row, "Model")
+ 
+  //Service Director details
+ SET @SDName = field(@row, "sendername_svm")
+   SET @SD_Name = Propercase(@SDName) 
+  
+   SET @SD_Role = field(@row, "senderrole_svm")
+   SET @SD_Email = field(@row, "senderemailaddress_svm")
+   SET @SD_Phone = field(@row, "senderphone_svm")
+  
+  //Dynamic footer details
+  SET @cdp_customer_id = field(@row, "cdp_customer_id")
+  SET @VIN = field(@row, "VIN")
+   SET @dealership_id = field(@row, "dealership_id")
+   SET @apptid = field(@row, "apptid")
+   SET @custno = field(@row, "custno")
+ 
+
+ ENDIF
+ 
+ //Fetch links from Links_For_All_BUs DE
+ SET @links_rows = LookupRows("ent.Links_For_All_BUs", "dealership_name", @DealershipName)
+ SET @links_rowCount = rowcount(@links_rows)
+ IF @links_rowCount > 0 then
+    SET @links_row = row(@links_rows, 1)
+  SET @LogoSrc = field(@links_row, "logo_src")
+   SET @DealershipURL = field(@links_row, "website_link")
+   SET @DealershipURLText = field(@links_row, "url_text")
+  SET @NewLink = field(@links_row, "new_cars")
+  SET @UsedLink = field(@links_row, "used_cars")
+   SET @PartsLink = field(@links_row, "parts")
+   SET @ServiceLink = field(@links_row, "service")
+   SET @FinancingLink = field(@links_row, "financing")
+   SET @SchedulingServiceLink = field(@links_row, "scheduling_service")
+   SET @ValuingMyTradeLink = field(@links_row, "valuing_my_trade")
+   SET @ContactUsLink = field(@links_row, "contact_us")
+   SET @HeroBannerCTALink = field(@links_row, "hero_banner_cta")
+   SET @TwitterLink = field(@links_row, "twitter")
+   SET @FacebookLink = field(@links_row, "facebook")
+   SET @YoutubeLink = field(@links_row, "youtube")
+   SET @InstagramLink = field(@links_row, "instagram")
+  SET @TrackablePhoneNo = field(@links_row, "trackable_phone_no")
+ ENDIF
+ 
+ IF @New_Used == "USED" THEN
+    SET @InventoryLink = @UsedLink
+   ELSE
+     SET @InventoryLink = @NewLink
+   ENDIF
+   
+   
+   //Fetch Hero banner and Headline
+ SET @bannerHeadlines_rows = LookupRows("ent.CJ10_HeroBanner_Headlines", "dealership_name", @DealershipName)
+ SET @bannerHeadlines_rowCount = rowcount(@bannerHeadlines_rows)
+ IF @bannerHeadlines_rowCount > 0 then
+    SET @bannerHeadlines_row = row(@bannerHeadlines_rows, 1)
+  SET @HeroBanner = field(@bannerHeadlines_row, "heroBanner")
+ SET @Map_Image = field(@bannerHeadlines_row, "Map_Image")
+SET @Map_Link = field(@bannerHeadlines_row, "Map_Link")
+     ENDIF
+     
+
+//Fetch links from Color Pallete of all Customer Journeys DE
+ SET @colors_rows = LookupRows("ent.Color_Pallete_of_all_Customer_Journeys", "dealership_name", @DealershipName)
+ SET @colors_rowCount = rowcount(@colors_rows)
+ IF @colors_rowCount > 0 then
+    SET @colors_row = row(@colors_rows, 1)
+    SET @BgColor = field(@colors_row, "CJ10")
+    SET @BgColor2 = field(@colors_row, "CJ10_BGColor2")
+    ENDIF
+     
+ //Fetch links from CJ10 icons
+ SET @icons_rows = LookupRows("ent.CJ10_Icons", "dealership_name", @DealershipName)
+ SET @icons_rowCount = rowcount(@icons_rows)
+ IF @icons_rowCount > 0 then
+  SET @icons_row = row(@icons_rows,1)
+SET @financeicon = field(@icons_row, "finance_icon")
+  SET @schedulingserviceicon = field(@icons_row, "schedulingservice_icon")
+  SET @valuingmytradeicon = field(@icons_row, "valuingmytrade_icon")
+  SET @calendericon = field(@icons_row, "calender_icon")
+  SET @clockicon = field(@icons_row, "clock_icon")
+  SET @locationicon = field(@icons_row, "location_icon")
+  SET @MapBG = field(@icons_row, "MapBG")
+ ENDIF
+
+ 
+  //Vehicle details placeholder
+  IF NOT EMPTY(@Sought_Year) AND NOT EMPTY(@Sought_Make) AND NOT EMPTY(@Sought_Model) THEN
+    SET @SoughtYear = @Sought_Year
+    SET @SoughtMake = @Sought_Make
+    SET @SoughtModel = @Sought_Model
+   ELSE
+    SET @SoughtYear = ""
+    SET @SoughtMake = "vehicle"
+    SET @SoughtModel = ""
+   ENDIF
+
+  
+  //FirstName
+ SET @FirstNameLen = Length(@FirstName)
+  IF EMPTY(@FirstName) OR IndexOf(@FirstName, "Mr") > 0 OR IndexOf(@FirstName, "Mrs") > 0 OR IndexOf(@FirstName, "Ms") > 0 OR @FirstNameLen <= 2 THEN 
+    SET @CustomerName = "Dear Valued Customer"
+  SET @DearCustomerName = "Dear Valued Customer"
+  SET @HiCustomerName = "Dear Valued Customer"
+  SET @HelloCustomerName = "Dear Valued Customer"
+  SET @HeyCustomerName = "Dear Valued Customer"
+ ELSE
+  SET @CustomerName = ProperCase(@FirstName)
+  SET @DearCustomerName = Concat('Dear ', ProperCase(@FirstName))
+  SET @HiCustomerName = Concat('Hi ', ProperCase(@FirstName))
+  SET @HelloCustomerName = Concat('Hello ', ProperCase(@FirstName))
+  SET @HeyCustomerName = Concat('Hey ', ProperCase(@FirstName))
+ ENDIF
+
+ </script>
+
