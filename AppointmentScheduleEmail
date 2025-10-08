@@ -1,0 +1,836 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+
+<meta http-equiv="Content-Type" content="txet/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="color-scheme" content="light dark"/>
+<meta name="supported-color-schemes" content="light dark"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta content="telephone=no" name="format-detection"/>
+<title>Toyota</title>
+
+
+<!--[if !mso]><!-->
+
+
+<!--<![endif]-->
+
+
+<style type="text/css">
+body {
+ -webkit-text-size-adjust: 100%!important;
+ -ms-text-size-adjust: 100%!important;
+ -webkit-font-smoothing: antialiased!important;
+}
+img {
+ border: 0!important;
+ outline: none!important;
+}
+p {
+ Margin: 0px!important;
+ Padding: 0px!important;
+}
+table {
+ border-collapse: collapse;
+ mso-table-lspace: 0px;
+ mso-table-rspace: 0px;
+}
+td, a, span {
+ border-collapse: collapse;
+ mso-line-height-rule: exactly;
+}
+.ExternalClass * {
+ line-height: 100%;
+}
+span.MsoHyperlink {
+ mso-style-priority: 99;
+ color: inherit;
+}
+span.MsoHyperlinkFollowed {
+ mso-style-priority: 99;
+ color: inherit;
+}
+.em_defaultlink a {
+ color: inherit;
+ text-decoration: none;
+}
+.em_g_img+div {
+ display: none;
+}
+a[x-apple-data-detectors], u+.em_body a, #MessageViewBody a {
+ color: inherit;
+ text-decoration: none;
+ font-size: inherit;
+ font-family: inherit;
+ font-weight: inherit;
+ line-height: inherit
+}
+
+
+@media only screen and (max-width:599px) {
+.em_main_table {
+ width: 100% !important;
+}
+.em_wrapper {
+ width: 100% !important;
+}
+.em_hide {
+ display: none !important;
+}
+.em_full_img img {
+ width: 100% !important;
+ height: auto !important;
+}
+.em_center {
+ text-align: center !important;
+}
+.em_side10 {
+ width: 10px !important;
+}
+.em_aside10 {
+ padding-left: 10px !important;
+ padding-right: 10px !important;
+}
+.em_side15 {
+ width: 15px !important;
+}
+.em_aside15 {
+ padding-left: 15px !important;
+ padding-right: 15px !important;
+}
+.em_ptop {
+ padding-top: 20px !important;
+}
+.em_ptop10 {
+ padding-top: 10px !important;
+}
+.em_pbottom {
+ padding-bottom: 20px !important;
+}
+.em_pbottom10 {
+ padding-bottom: 10px !important;
+}
+.em_h20 {
+ height: 20px !important;
+ font-size: 1px!important;
+ line-height: 1px!important;
+}
+.em_h30 {
+ height: 30px !important;
+}
+.em_mob_block {
+ display: block !important;
+}
+.em_hauto {
+ height: auto !important;
+}
+.em_clear {
+ clear: both !important;
+ width: 100% !important;
+ display: block !important;
+}
+u + .em_body .em_full_wrap {
+ width: 100% !important;
+ width: 100vw !important;
+}
+.em_hide_desktop {
+ display: table !important;
+ float: none !important;
+ width: 100% !important;
+ overflow: visible !important;
+ height: auto !important;
+}
+.em_pad1 {
+ padding: 20px 15px !important;
+}
+.em_pad2 {
+ padding: 0px 15px 30px !important;
+}
+.em_pad3 {
+ padding: 0px 15px !important;
+}
+.em_pad4 {
+ padding: 20px 15px 0px !important;
+}
+.em_pad5 {
+ padding: 20px 15px 30px !important;
+}
+.em_pt30 {
+ padding-top: 30px !important;
+}
+.em_pad6 {
+ padding: 0px 15px 30px !important;
+}
+.em_pad7 {
+ padding: 30px 15px !important;
+}
+.em_borderbottom {
+ border-bottom: 1px solid #9C2520 !important;
+}
+.em_ptop2 {
+ padding-top: 6px !important;
+}
+.em_side16 {
+ width: 35px !important;
+}
+.em_letterspacing {
+ letter-spacing: 0px !important;
+}
+}
+
+
+@media screen and (max-width: 480px) {
+/*Remove this media query if you did not add any specific class in this*/
+.em_font10 {
+ font-size: 10px !important;
+ line-height: 20px !important;
+}
+.em_side16 {
+ width: 18px !important;
+}
+.em_letterspacing {
+ letter-spacing: 0.2px !important;
+}
+}
+
+
+@media screen and (max-width: 374px) {
+/*Remove this media query if you did not add any specific class in this*/
+
+
+.em_font10 {
+ font-size: 10px !important;
+ line-height: 20px !important;
+}
+.em_font12 {
+ font-size: 12px !important;
+ line-height: 22px !important;
+}
+.em_font12Nav {
+ font-size: 12px !important;
+ line-height: 15px !important;
+}
+.em_font14 {
+ font-size: 14px !important;
+ line-height: 24px !important;
+}
+.em_font16 {
+ font-size: 16px !important;
+ line-height: 24px !important;
+}
+.em_side16 {
+ width: 18px !important;
+}
+.em_letterspacing {
+ letter-spacing: 0px !important;
+}
+}
+
+
+/*Darkmode Media*/
+@media screen and (prefers-color-scheme: dark) {
+.em_dm_txt_white {
+ color: #FFFFFF!important;
+}
+.em_dm_txt_white a {
+ color: #FFFFFF!important;
+}
+.em_body {
+ background-color: #000000 !important;
+}
+.em_full_wrap {
+ background-color: #000000 !important;
+}
+.em_main_table {
+ background-color: #000000 !important;
+}
+.em_main_tableA {
+ background-color: #F4F4F4 !important;
+}
+.em_full_wrapA {
+ background-color: #fafafa !important;
+ color: #FFFFFF!important;
+}
+.em_mainbg {
+ background-color: #000000 !important;
+}
+.em_linecolor {
+ background-color: #ffffff !important;
+}
+}
+/*//Darkmode Media*/
+</style>
+<!--%%=ContentBlockByID('65199')=%%-->
+ 
+
+
+</head>
+<body class="em_body" style="margin:0px;padding:0px;" bgcolor="#f1f1f1">
+<custom name="opencounter" type="tracking"/>
+<!--Full width table start-->
+<table class="em_full_wrap" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+ <tr>
+  <td align="center" valign="top"><table align="center" width="600" border="0" cellspacing="0" cellpadding="0"
+style="table-layout:fixed;width:600px;" bgcolor="#ffffff" class="em_main_table em_wrapper">
+   
+    <!--Thank you message-->
+   
+    <tr>
+     <td align="center" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;background-color:#ED0A1E;" bgcolor="#951711" class="em_wrapper">
+       <tbody>
+        <tr>
+         <td width="15" style="width:15px;">&nbsp;</td>
+         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+           <tbody>
+            <tr>
+             <td height="15" style="height:15px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+            <tr>
+             <td valign="top" align="center" style="font-size:12px;line-height:14px;color:#FFFFFF;font-weight:400;font-family:Helvetica, Arial, 'sans-serif';">Service Appointment Details: Prepare for a Quick and Convenient Visit to Westminster Toyota</td>
+            </tr>
+            <tr>
+             <td height="15" style="height:15px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+           </tbody>
+          </table></td>
+         <td width="15" style="width:15px;">&nbsp;</td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   
+    <!--//Thank you message-->
+   
+    <!--Header logo-->
+   
+    <tr>
+     <td valign="top" align="center"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper">
+       <tbody>
+        <tr>
+         <td width="15" style="width:15px;">&nbsp;</td>
+         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+           <tbody>
+            <tr>
+             <td class="em_h20" height="26" style="height:26px;font-size:1px;line-height:1px;">&nbsp;</td>
+            </tr>
+            <tr>
+             <td valign="top" align="center"><table  border="0" cellspacing="0" cellpadding="0" align="center">
+               <tbody>
+                <tr>
+                 <td valign="top" align="center"><a href="#" target="_blank" alias="Logo" style="text-decoration: none;color:#000000;"><img src="https://ik.imagekit.io/panshumistry/Toyota%20Logo.png?updatedAt=1759472872789" width="265" alt="Toyota" border="0" style="display:block;max-width: 265px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';"/></a></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr>
+             <td class="em_h20" height="25" style="height:25px;font-size:1px;line-height:1px;">&nbsp;</td>
+            </tr>
+           </tbody>
+          </table></td>
+         <td width="15" style="width:15px;">&nbsp;</td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   
+    <!--Header logo-->
+   
+    <!--Navigation Section-->
+    <tr>
+     <td class="em_linecolor" height="1" style="height:1px;font-size:1px;line-height:1px;background-color:#000000;" bgcolor="#000000"><img src="https://image.saturnlaunch.com/lib/fe3711737164047f741273/m/1/c1cc71fe-671c-499a-881a-5ceefc4b81c5.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+    </tr>
+    <tr>
+     <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;background-color:#ffffff;" bgcolor="#ffffff" class="em_mainbg">
+       <tbody>
+        <tr>
+         <td class="em_side15" width="25" style="width:25px;">&nbsp;</td>
+         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+           <tbody>
+            <tr>
+             <td height="19" style="height:19px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3711737164047f741273/m/1/c1cc71fe-671c-499a-881a-5ceefc4b81c5.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+            <tr>
+             <td valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" align="center">
+               <tbody>
+                <tr>
+                 <td class="em_dm_txt_white em_font12Nav em_letterspacing" valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: uppercase;letter-spacing:0.1em;"><a href="#" target="_blank" alias="New Vehicles" style="text-decoration: underline;color: #000000;">New</a></td>
+                 <td class="em_side16" width="43" style="width:43px;">&nbsp;</td>
+                 <td class="em_dm_txt_white em_font12Nav" valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-family:Arial, 'sans-serif';">|</td>
+                 <td class="em_side16" width="43" style="width:43px;">&nbsp;</td>
+                 <td class="em_dm_txt_white em_font12Nav em_letterspacing" valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: uppercase;letter-spacing:0.1em;"><a href="#" target="_blank" alias="Used Vehicles" style="text-decoration: underline;color: #000000;">Used</a></td>
+                 <td class="em_side16" width="43" style="width:43px;">&nbsp;</td>
+                 <td class="em_dm_txt_white em_font12Nav"  valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-family:Arial, 'sans-serif';">|</td>
+                 <td class="em_side16" width="43" style="width:43px;">&nbsp;</td>
+                 <td class="em_dm_txt_white em_font12Nav em_letterspacing" valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: uppercase;letter-spacing:0.1em;"><a href="#" target="_blank" alias="Parts" style="text-decoration: underline;color: #000000;">Parts</a></td>
+                 <td class="em_side16" width="43" style="width:43px;">&nbsp;</td>
+                 <td class="em_dm_txt_white em_font12Nav" valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-family:Arial, 'sans-serif';">|</td>
+                 <td class="em_side16" width="43" style="width:43px;">&nbsp;</td>
+                 <td class="em_dm_txt_white em_font12Nav em_letterspacing" valign="middle" align="center" style="font-size:14px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: uppercase;letter-spacing:0.1em;"><a href="#" target="_blank" alias="Service" style="text-decoration: underline;color: #000000;">Service</a></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr>
+             <td height="19" style="height:19px;font-size:1px;line-height:1px;"><img src="https://image.saturnlaunch.com/lib/fe3711737164047f741273/m/1/c1cc71fe-671c-499a-881a-5ceefc4b81c5.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+           </tbody>
+          </table></td>
+         <td class="em_side15" width="25" style="width:25px;">&nbsp;</td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+    <tr>
+     <td class="em_linecolor" height="1" style="height:1px;font-size:1px;line-height:1px;background-color:#000000;" bgcolor="#000000"><img src="https://image.saturnlaunch.com/lib/fe3711737164047f741273/m/1/c1cc71fe-671c-499a-881a-5ceefc4b81c5.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+    </tr>
+   
+    <!--//Navigation Section-->
+   
+    <!--Banner Section-->
+   
+    <tr>
+     <td valign="top" align="center"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper" bgcolor="#F8F8F8">
+       <tbody>
+        <tr>
+         <td class="em_full_img" valign="top" align="center"><a href="#" target="_blank" alias="Appointment" style="text-decoration: none;"><img src="https://ik.imagekit.io/panshumistry/Toyota%20service.jpg?updatedAt=1759472873266" width="600" alt="Reservation Reminder | Confirm Appointment" border="0" style="font-size:15px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';"/></a></td>
+        </tr>
+        <!--3 Column Section-->
+       
+        <tr>
+         <td valign="top" align="center"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper" >
+           <tbody>
+            <tr>
+             <td class="em_side15" width="20" style="width:20px;">&nbsp;</td>
+             <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+               <tbody>
+                <tr>
+                 <td class="em_h20" height="30" style="height:30px;font-size:1px;line-height:1px;">&nbsp;</td>
+                </tr>
+                <tr>
+                 <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+                   <tbody>
+                    <tr>
+                     <td valign="top"><table width="382" border="0" cellspacing="0" cellpadding="0" align="left" style="width:382px;" class="em_wrapper">
+                       <tbody>
+                        <tr>
+                         <td valign="top"><table width="181" border="0" cellspacing="0" cellpadding="0" align="left" style="width:181px;" class="em_wrapper em_borderbottom">
+                           <tbody>
+                            <tr>
+                             <td valign="top" align="center"><table width="180" border="0" cellspacing="0" cellpadding="0" align="center" style="width:180px;" class="em_wrapper ">
+                               <tbody>
+                                <tr>
+                                 <td valign="top" align="left"><table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                   <tbody>
+                                    <tr>
+                                     <td valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" align="center">
+                                       <tbody>
+                                        <tr>
+                                         <td valign="middle" align="center" width="20" style="width:20px;font-size:0px;line-height:0px;"><a href="#" target="_blank" alias="Finance" style="text-decoration: none;color:#951711;"><img src="https://ik.imagekit.io/panshumistry/Finance.png?updatedAt=1759494052468" width="20" alt="image" border="0" style="display: block;max-width:20px; font-size:10px;line-height:12px;font-weight:normal;color:#ED0A1E;font-family:Arial, 'sans-serif'; " /></a></td>
+                                         <td width="10" style="width:10px;">&nbsp;</td>
+                                         <td valign="middle" align="left" style="font-size:14px;line-height:16px;color:#ED0A1E;font-weight:700;font-family:Arial, 'sans-serif';"><a href="#" target="_blank" alias="Finance" style="text-decoration: none;color:#ED0A1E;">Financing</a></td>
+                                        </tr>
+                                       </tbody>
+                                      </table></td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                 <td height="15" style="height:15px;font-size:0px;line-height:0px;"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/1cbbdd5f-55c2-4743-b9af-855a4c6c1ae4.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                                </tr>
+                                <tr>
+                                 <td class="em_center em_pbottom" valign="top" align="left" style="font-size:12px;line-height:20px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: capitalize;">Why wait? Get the best<br class="em_hide">
+                                  rate&nbsp;now</td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                             <td class="em_hide" width="1" style="width:1px;background-color:#951711;" bgcolor="#951711"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/1cbbdd5f-55c2-4743-b9af-855a4c6c1ae4.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                            </tr>
+                           </tbody>
+                          </table>
+                         
+                          <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                         
+                          <table width="201" border="0" cellspacing="0" cellpadding="0" align="right" style="width:201px;" class="em_wrapper">
+                           <tbody>
+                            <tr>
+                             <td valign="top" align="center"><table width="200" border="0" cellspacing="0" cellpadding="0" align="center" style="width:200px;" class="em_wrapper em_borderbottom">
+                               <tbody>
+                                <tr>
+                                 <td class="em_hide" width="20" style="width:20px;">&nbsp;</td>
+                                 <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+                                   <tbody>
+                                    <tr>
+                                     <td valign="top" align="left"><table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                       <tbody>
+                                        <tr>
+                                         <td valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" align="center">
+                                           <tbody>
+                                            <tr>
+                                             <td class="em_ptop" valign="middle" align="center" width="20" style="width:20px;font-size:0px;line-height:0px;"><a href="#" target="_blank" alias="SchedulingService" style="text-decoration: none;color:#ED0A1E;"><img src="https://ik.imagekit.io/panshumistry/Schedule%20Service.png?updatedAt=1759495570198" width="20" alt="image" border="0" style="display: block;max-width:20px; font-size:10px;line-height:12px;font-weight:normal;color:#ED0A1E;font-family:Arial, 'sans-serif'; " /></a></td>
+                                             <td class="em_ptop" width="10" style="width:10px;">&nbsp;</td>
+                                             <td class="em_ptop" valign="middle" align="left" style="font-size:14px;line-height:16px;color:#ED0A1E;font-weight:700;font-family:Arial, 'sans-serif';"><a href="#" target="_blank" alias="SchedulingService" style="text-decoration: none;color:#ED0A1E;">Schedule Service</a></td>
+                                            </tr>
+                                           </tbody>
+                                          </table></td>
+                                        </tr>
+                                       </tbody>
+                                      </table></td>
+                                    </tr>
+                                    <tr>
+                                     <td height="15" style="height:15px;font-size:0px;line-height:0px;"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/1cbbdd5f-55c2-4743-b9af-855a4c6c1ae4.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                                    </tr>
+                                    <tr>
+                                     <td class="em_center em_pbottom" valign="top" align="left" style="font-size:12px;line-height:20px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: capitalize;">Take care of your<br class="em_hide">
+                                      vehicle</td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                 <td class="em_hide" width="20" style="width:20px;">&nbsp;</td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                             <td class="em_hide" width="1" style="width:1px;background-color:#951711;" bgcolor="#951711"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/1cbbdd5f-55c2-4743-b9af-855a4c6c1ae4.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table>
+                     
+                      <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                     
+                      <table width="178" border="0" cellspacing="0" cellpadding="0" align="right" style="width:178px;" class="em_wrapper">
+                       <tbody>
+                        <tr>
+                         <td class="em_hide" width="20" style="width:20px;">&nbsp;</td>
+                         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+                           <tbody>
+                            <tr>
+                             <td valign="top" align="left"><table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                               <tbody>
+                                <tr>
+                                 <td valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" align="center">
+                                   <tbody>
+                                    <tr>
+                                     <td class="em_ptop" valign="middle" align="center" width="20" style="width:20px;font-size:0px;line-height:0px;"><a href="#" target="_blank" alias="ValuingMyTrade" style="text-decoration: none;color:#ED0A1E;"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/05359374-e049-477c-bd5d-7fb1255f2b57.png" width="20" alt="image" border="0" style=" display: block;max-width:20px; font-size:10px;line-height:12px;font-weight:normal;color:#ED0A1E;font-family:Arial, 'sans-serif'; "/></a></td>
+                                     <td class="em_ptop" width="10" style="width:10px;">&nbsp;</td>
+                                     <td class="em_ptop" valign="middle" align="left" style="font-size:14px;line-height:16px;color:#ED0A1E;font-weight:700;font-family:Arial, 'sans-serif';"><a href="#" target="_blank" alias="ValuingMyTrade" style="text-decoration: none;color:#ED0A1E;">Value Your Trade</a></td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                            </tr>
+                            <tr>
+                             <td height="15" style="height:15px;font-size:0px;line-height:0px;"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/1cbbdd5f-55c2-4743-b9af-855a4c6c1ae4.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                            </tr>
+                            <tr>
+                             <td class="em_center" valign="top" align="left" style="font-size:12px;line-height:20px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';text-transform: capitalize;">Get the best deal for your<br class="em_hide">
+                              car&nbsp;now</td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td class="em_h20" height="30" style="height:30px;font-size:1px;line-height:1px;">&nbsp;</td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td class="em_side15" width="20" style="width:20px;">&nbsp;</td>
+            </tr>
+           </tbody>
+          </table></td>
+        </tr>
+       
+        <!--//3 Column Section-->
+       </tbody>
+      </table></td>
+    </tr>
+   
+    <!--//Banner Section-->
+   
+    <!--Email Body Content Section-->
+   
+    <tr>
+     <td align="center" valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;"  class="em_wrapper">
+       <tbody>
+        <tr>
+         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+           <tbody>
+            <tr>
+             <td class="em_side15" width="25" style="width:25px;">&nbsp;</td>
+             <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+               <tbody>
+                <tr>
+                 <td class="em_h20" height="30" style="height:30px;">&nbsp;</td>
+                </tr>
+                <tr>
+                 <td class="em_dm_txt_white em_font16" valign="top" align="left" style="font-size:16px;line-height:26px;color:#000000;font-weight:700;font-family:Arial, 'sans-serif';text-transform:capitalize;">Hi Panshu</td>
+                </tr>
+                <tr>
+                 <td height="20" style="height:20px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                </tr>
+                <tr>
+                 <td class="em_dm_txt_white em_font12" valign="top" align="left" style="font-size:14px;line-height:24px;font-weight:400;color:#000000;font-family:Arial, 'sans-serif';">We look forward to seeing you at Westminster Toyota to take care of your Toyota Camry Hybrid needs.</td>
+                </tr>
+                <tr>
+                 <td height="10" style="height:10px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                </tr>
+                <tr>
+                 <td class="em_dm_txt_white em_font12" valign="top" align="left" style="font-size:14px;line-height:24px;font-weight:400;color:#000000;font-family:Arial, 'sans-serif';">Here is your Service Appointment Summary:</td>
+                </tr>
+                <tr>
+                 <td height="9" style="height:9px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                </tr>
+                <tr>
+                 <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#e6f3ec">
+                   <tbody>
+                    <tr>
+                     <td valign="top" align="center" class="em_pad1" style="padding: 30px 20px 30px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                       <tbody>
+                        <tr>
+                         <td valign="top" align="left"><table width="377" align="left" class="em_wrapper" style="width: 377px;" border="0" cellspacing="0" cellpadding="0">
+                           <tbody>
+                            <tr>
+                             <td valign="top"><table width="200" class="em_wrapper" style="width:200px;" align="left" border="0" cellspacing="0" cellpadding="0">
+                               <tbody>
+                                <tr>
+                                 <td valign="top" align="left" width="34" style="width: 34px;"><img src="https://ik.imagekit.io/panshumistry/Calendar.png?updatedAt=1759495569926" width="23"  alt="" border="0" style="display: block;max-width: 23px;"/></td>
+                                 <td class="em_font16" valign="top" align="left" style="font-size:18px;line-height:21px;color:#000000;font-weight:700;font-family:Arial, 'sans-serif';">09/29/2025</td>
+                                 <td class="em_hide em_font16" valign="top" align="right" style="font-size:20px;line-height:21px;color:#000000;font-weight:700;font-family:Arial, 'sans-serif';text-transform:capitalize;">&nbsp;|&nbsp;</td>
+                                </tr>
+                               </tbody>
+                              </table>
+                             
+                              <!--[if gte mso 9]></td><td valign="top"><![endif]-->
+                             
+                              <table width="120" class="em_wrapper" style="width: 120px;" align="right" border="0" cellspacing="0" cellpadding="0">
+                               <tbody>
+                                <tr>
+                                 <td valign="top" align="center" class="em_ptop"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                   <tbody>
+                                    <tr>
+                                     <td valign="top" align="left" width="32" style="width: 32px;"><img src="https://ik.imagekit.io/panshumistry/red_clock_icon.jpg?updatedAt=1759495569867" width="21"  alt="" border="0" style="display: block;max-width: 21px;"/></td>
+                                     <td class="em_font16" valign="top" align="left" style="font-size:19px;line-height:21px;color:#000000;font-weight:700;font-family:Arial, 'sans-serif';">14:00</td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       
+                        <tr>
+                         <td height="22" style="height:22px;font-size:0px;line-height:0px;" class="em_h20"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                        </tr>
+                        <tr>
+                         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <tbody>
+                            <tr>
+                             <td valign="top" align="left" width="30" style="width: 30px;"><a href="https://www.google.com/maps/place/2198+NE+163rd+St,+North+Miami+Beach,+FL+33162,+USA/@25.9243334,-80.1571462,17z/data=!4m6!3m5!1s0x88d9adbb7212f2bb:0x29be3affb75c4bf5!8m2!3d25.9255109!4d-80.1561848!16s%2Fg%2F11bw3xnh2y?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" target="_blank" style="text-decoration: none;color: #078A42;"><img src="https://ik.imagekit.io/panshumistry/red_location_pin.jpg?updatedAt=1759495569348" width="16"  alt="" border="0" style="display: block;max-width: 16px;"/></a></td>
+                             <td class="em_font16" valign="top" align="left" style="font-size:20px;line-height:21px;color:#000000;font-weight:700;font-family:Arial, 'sans-serif';"><a href="https://www.google.com/maps/place/2198+NE+163rd+St,+North+Miami+Beach,+FL+33162,+USA/@25.9243334,-80.1571462,17z/data=!4m6!3m5!1s0x88d9adbb7212f2bb:0x29be3affb75c4bf5!8m2!3d25.9255109!4d-80.1561848!16s%2Fg%2F11bw3xnh2y?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" target="_blank" style="text-decoration: none;color: #000000;">Lane No.3, Westminster, London 80003</a></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                        <tr>
+                         <td height="22" style="height:22px;font-size:0px;line-height:0px;" class="em_h20"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                        </tr>
+                       
+                        <tr>
+                            <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                                <tr>
+                                  <td align="center" valign="middle"><table border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ED0A1E" style="background-color:#ED0A1E; border-radius:0px;">
+                                      <tr>
+                                        <td class="em_defaultlink" align="center" valign="middle" height="40" style="font-size:16px; color:#ffffff; font-family:Arial, 'sans-serif'; font-weight:700; height:40px; padding:0px 25px; text-transform:uppercase;"><a href="#" target="_blank" style="color:#ffffff; text-decoration:none;line-height:40px; display:block;" alias="cta1">Add to Calendar</a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                       
+                         <tr>
+                         <td height="22" style="height:22px;font-size:0px;line-height:0px;" class="em_h20"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                        </tr>
+             <tr>
+                         <td class="em_h20"><a href="https://maps.app.goo.gl/jPdEb7vwsbcBU5T88" target="_blank" alias="Map" style="text-decoration: none;"><img src="https://ik.imagekit.io/panshumistry/Toyota%20Service%20map%20image.png?updatedAt=1759472872757" width="100%" alt="Dealership Map" border="0" style="font-size:15px;line-height:17px;color:#000000;font-weight:400;font-family:Arial, 'sans-serif';"/></a></td>
+                        </tr>
+                       
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td height="12" style="height:12px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                </tr>
+                <tr>
+                 <td class="em_dm_txt_white em_font12" valign="top" align="left" style="font-size:14px;line-height:24px;font-weight:400;color:#000000;font-family:Arial, 'sans-serif';">We know your time is valuable and we want to ensure we have a consultant ready to get you in and out as quickly as possible. If you can no longer make this appointment, please <a href="#" target="_blank" alias="SchedulingService" style="text-decoration: underline; color: #000000; font-weight: bold;">click&nbsp;here</a> to&nbsp;reschedule.</td>
+                </tr>
+                <tr>
+                 <td height="20" style="height:20px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f2c42f0e-4308-4e01-895b-1b263daf626b.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+                </tr>
+                <tr>
+                 <td class="em_font14 em_dm_txt_white" valign="top" align="left" style="font-size:14px;line-height:24px;color:#000000;font-weight:700;font-family:Arial, 'sans-serif';"> Jose Thomas<br>
+                  Service Manager<br>
+                  <a href="tel:+020 69301755" target="_blank" style="color:#000000;text-decoration:none;">+020 69301755</a><br>
+                  Westminster Toyota<br>
+                  Lane No. 3<br>
+                  Westminster, London 80003<br>
+                  </td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td class="em_side15" width="25" style="width:25px;">&nbsp;</td>
+            </tr>
+           </tbody>
+          </table></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   
+    <!--//Email Body Content Section-->
+   
+    <!--Contact Information Section-->
+   
+    <tr>
+     <td valign="top" align="center"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper">
+       <tbody>
+        <tr>
+         <td class="em_side15" width="25" style="width:25px;">&nbsp;</td>
+         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+           <tbody>
+            <tr>
+             <td class="em_h20" height="30" style="height:30px;">&nbsp;</td>
+            </tr>
+            <tr>
+             <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;background-color:#951711;" bgcolor="#951711">
+               <tbody>
+                <tr>
+                 <td class="em_side15" width="30" style="width:30px;">&nbsp;</td>
+                 <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+                   <tbody>
+                    <tr>
+                     <td class="em_h20" height="30" style="height:30px;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                     <td class="em_font12" valign="top" align="center" style="font-size:14px;line-height:24px;color:#FFFFFF;font-weight:400;font-family:Arial, 'sans-serif';">Call <a href="tel:+020 69301755" style="text-decoration: underline;color:#FFFFFF;">+020 69301755</a> Visit Us Online At <a href="#" target="_blank" alias="Home" style="text-decoration: underline;color:#FFFFFF;">www.westmintertoyota.com</a></td>
+                    </tr>
+                    <tr>
+                     <td class="em_h20" height="30" style="height:30px;">&nbsp;</td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td class="em_side15" width="30" style="width:30px;">&nbsp;</td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr>
+             <td class="em_h20" height="30" style="height:30px;">&nbsp;</td>
+            </tr>
+           </tbody>
+          </table></td>
+         <td class="em_side15" width="25" style="width:25px;">&nbsp;</td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   
+    <!--//Contact Information Section-->
+   
+    <!--Footer Section-->
+   
+    <tr>
+     <td valign="top" align="center"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;background-color:#000000;" bgcolor="#000000" class="em_wrapper">
+       <tbody>
+        <tr>
+         <td class="em_side10" width="20" style="width:20px;">&nbsp;</td>
+         <td valign="top" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="width:100%;">
+           <tbody>
+            <tr>
+             <td class="em_h20" height="30" style="height:30px;font-size:1px;line-height:1px;">&nbsp;</td>
+            </tr>
+            <tr>
+             <td valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" align="center">
+               <tbody>
+                <tr>
+                 <td valign="top" align="center"><a href="#" target="_blank" alias="Twitter" style="text-decoration:none;color:#FFFFFF;"><img src="https://image.saturnlaunch.com/lib/fe2411737164047a7c1d76/m/1/c18a26c7-8efd-440c-8cda-1d0ec6ecdbd5.png" width="19" alt="Twitter" style="display:block;max-width:19px;font-size:8px;line-height:10px;color:#FFFFFF;font-family:Arial, 'sans-serif';"/></a></td>
+                 <td width="15" style="width:15px;">&nbsp;</td>
+                 <td valign="top" align="center"><a href="#" target="_blank" alias="Facebook" style="text-decoration:none;color:#FFFFFF;"><img src="https://image.saturnlaunch.com/lib/fe2411737164047a7c1d76/m/1/35930e16-75c0-48e9-a4e2-78f604f519e6.png" width="18" alt="Facebook" style="display:block;max-width:18px;font-size:8px;line-height:10px;color:#FFFFFF;font-family:Arial, 'sans-serif';"/></a></td>
+                 <td width="15" style="width:15px;">&nbsp;</td>
+                 <td valign="top" align="center"><a href="#" target="_blank" alias="Youtube" style="text-decoration:none;color:#FFFFFF;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/72efd068-9f26-4dbb-bf44-600001175a34.png" width="26" alt="YouTube" style="display:block;max-width:26px;font-size:8px;line-height:10px;color:#FFFFFF;font-family:Arial, 'sans-serif';"/></a></td>
+                 <td width="15" style="width:15px;">&nbsp;</td>
+                 <td valign="top" align="center"><a href="#" target="_blank" alias="Instagram" style="text-decoration:none;color:#FFFFFF;"><img src="https://image.saturnlaunch.com/lib/fe2411737164047a7c1d76/m/1/508ab7e7-0a72-4967-918f-2818f59200ce.png" width="18" alt="Instagram" style="display:block;max-width:18px;font-size:8px;line-height:10px;color:#FFFFFF;font-family:Arial, 'sans-serif';"/></a></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr>
+             <td class="em_h20" height="20" style="height:20px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+            <tr>
+             <td class="em_font10" valign="top" align="center" style="font-size:12px;line-height:22px;color:#FFFFFF;font-weight:400;font-family:Helvetica, Arial, 'sans-serif';">Lane No.3, Westminster, London 80003 </td>
+            </tr>
+            <tr>
+             <td height="4" style="height:4px;font-size:0px;line-height:0px;"><img src="https://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/f56fea15-8cf6-43b3-b8f4-bc8bf5162cae.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+            <tr>
+             <td class="em_font10" valign="top" align="center" style="font-size:12px;line-height:26px;color:#FFFFFF;font-weight:400;font-family:Helvetica, Arial, 'sans-serif';">Copyright &copy; 2025 Westminster Toyota&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" target="_blank" style="text-decoration: underline;color:#FFFFFF;">Unsubscribe</a></td>
+            </tr>
+            <tr>
+             <td height="6" style="height:6px;font-size:0px;line-height:0px;"><img src="http://image.saturnlaunch.com/lib/fe3911737164047f741271/m/1/1cbbdd5f-55c2-4743-b9af-855a4c6c1ae4.gif" width="1" height="1" alt="" style="display: block;" border="0"/></td>
+            </tr>
+            <tr>
+             <td class="em_font10" valign="top" align="center" style="font-size:8px;line-height:18px;color:#FFFFFF;font-weight:400;font-family:Helvetica, Arial, 'sans-serif';"><!--%%[IF NOT EMPTY(@custno) THEN]%%-->custno<!--%%[ELSE]%%-->*<!--%%[ENDIF]%%--> | <!--%%[IF NOT EMPTY(@VIN) THEN]%%-->VIN<!--%%[ELSE]%%-->*<!--%%[ENDIF]%%--> | <!--%%[IF NOT EMPTY(@cdp_customer_id) THEN]%%-->cdp_customer_id<!--%%[ELSE]%%-->*<!--%%[ENDIF]%%--></td>
+            </tr>
+            <tr>
+             <td class="em_font10" valign="top" align="center" style="font-size:8px;line-height:18px;color:#FFFFFF;font-weight:400;font-family:Helvetica, Arial, 'sans-serif';"><!--%%[IF NOT EMPTY(@dealership_id) THEN]%%-->%%=v(@dealership_id)=%%<!--%%[ELSE]%%-->*<!--%%[ENDIF]%%--> | 10-AFS | <!--%%[IF NOT EMPTY(@apptid) THEN]%%-->%%=v(@apptid)=%%<!--%%[ELSE]%%-->*<!--%%[ENDIF]%%--></td>
+            </tr>
+            <tr>
+             <td valign="top" align="center" style="font-size:0px;line-height:0px;color:#000000;">%%Member_Busname%% %%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%
+              %%profile_center_url%%</td>
+            </tr>
+            <tr>
+             <td class="em_h20" height="30" style="height:30px;">&nbsp;</td>
+            </tr>
+           </tbody>
+          </table></td>
+         <td class="em_side10" width="20" style="width:20px;">&nbsp;</td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   
+    <!--//Footer Section-->
+   
+   </table></td>
+ </tr>
+</table>
+
+
+<!--Full width table End-->
+<div style="white-space:nowrap;line-height:0px;font-size:0px;color:#ffffff;" class="em_hide">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+</body>
+</html>
